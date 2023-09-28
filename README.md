@@ -8,3 +8,6 @@ I have added some more code within the js file that I have used to extend my kno
 
 # Initial Commit - colors.js
 I have added a new file called colors.js that demonstrates how to make a table of random colors, this is the implementation of creating the hue for the colors
+
+# Version 2 - colors.js
+I have now updated the colors.js file to add the implementation for creating the table for the random colors, I have messed around and tested with this to see the result, and how the script comes to that result
