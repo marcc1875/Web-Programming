@@ -15,3 +15,6 @@ I have now updated the colors.js file to add the implementation for creating the
 # Initial Commit - edit.js and home.html
 
 I have commited two new files as stated above. I did a simple JQuery function to edit the parameters of a paragraph to get an idea for the syntax and the required src link to get JQuery to work
+
+# Version 2 - edit.js and home.html
+I did some messing around with JQuery to add the functionality of show and hide buttons, which when clicked will result in either showing or hiding the paragraph written in the page. I also implemented the ready function, and understand the reasoning and why you would implement this. This has helped me further understand the syntax and make use of the magic $.
