@@ -19,3 +19,7 @@ I have moved the embedded html into an external javaScript file and added the li
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
 This also includes some css to create a horizontal navigation bar.
 
+# Initial Commit - add.js
+
+I have added an external javaScript file to neaten up my html file, and help make the code less cluttered and more neater. I moved the earlier commited embedded js code into this file.
+
