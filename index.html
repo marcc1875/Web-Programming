@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head>
+<script>
+	function go(hei) {
+    window.location.href = "http://www." + hei + ".ac.uk";
+    }
+</script>	
+<link rel="stylesheet" href="style.css">
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-
+<h1>My Webpage!</h1>
+<ul>
+    <li><em onclick='go("ed")'>Edinburgh</em></li>
+    <li><em onclick='go("hw")'>Heriot-Watt</em></li>
+    <li><em onclick='go("napier")'>Edinburgh Napier</em></li>
+</ul>
 <p> This is a test for version 2, to check how version control looks and works within GitHub</p>
-
 </body>
 </html>
