@@ -10,6 +10,10 @@ I made some changes to the index.html file, and then commited those changes as a
 
 I have added some html code to create a list that would represent a navigation bar. With this I have implemented some embedded JavaScript to create the hyperlink to the webpage depending on which university you click on.
 
+# Version 4 - index.html
+
+I have moved the embedded html into an external javaScript file and added the line of code in the script tags to link this, to make the code neater and less cluttered.
+
 # Initial Commit - styles.css
 
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
