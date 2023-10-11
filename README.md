@@ -14,6 +14,10 @@ I have added some html code to create a list that would represent a navigation b
 
 I have moved the embedded html into an external javaScript file and added the line of code in the script tags to link this, to make the code neater and less cluttered.
 
+# Version 5 - index.html
+
+I have added the <style> line to download the jQuery library for the javaScript on my webpage
+
 # Initial Commit - styles.css
 
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
@@ -22,4 +26,9 @@ This also includes some css to create a horizontal navigation bar.
 # Initial Commit - add.js
 
 I have added an external javaScript file to neaten up my html file, and help make the code less cluttered and more neater. I moved the earlier commited embedded js code into this file.
+
+# Version 2 - add.js
+
+I have added some JQuery in the javascript file to allow the user to click on a paragraph they have already read and it will hide it.
+
 
