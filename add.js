@@ -7,3 +7,9 @@ $(document).ready(function(){
     $(this).hide();
   });
 });
+
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideDown("slow");
+  });
+});
