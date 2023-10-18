@@ -27,6 +27,10 @@ I have added some divisions to allow for JQuery in Version 3 of add.js to be use
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
 This also includes some css to create a horizontal navigation bar.
 
+# Version 2 - styles.css
+
+I have added some id's for the divisions added on version 6 of index.html, to change the color of the components, and alter the way they are displayed and how the user sees them
+
 # Initial Commit - add.js
 
 I have added an external javaScript file to neaten up my html file, and help make the code less cluttered and more neater. I moved the earlier commited embedded js code into this file.
