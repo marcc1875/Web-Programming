@@ -18,6 +18,10 @@ I have moved the embedded html into an external javaScript file and added the li
 
 I have added the <style> line to download the jQuery library for the javaScript on my webpage
 
+# Version 6 - index.html
+
+I have added some divisions to allow for JQuery in Version 3 of add.js to be used on them.
+
 # Initial Commit - styles.css
 
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
