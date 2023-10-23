@@ -43,8 +43,12 @@ I have added an external javaScript file to neaten up my html file, and help mak
 
 I have added some JQuery in the javascript file to allow the user to click on a paragraph they have already read and it will hide it.
 
-# Version 3 - add.ks
+# Version 3 - add.js
 
 I have added some more JQuery to test out some more features that it allows you to do, and get more of a feel for the syntax and what it actually does
+
+# Version 4 - add.js
+
+I have added some basic AJAX to manipulate a division and edit the content within it. This has allowed me to get a better understanding of the syntax and what each component of a basic AJAX functionality results in.
 
 
