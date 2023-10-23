@@ -22,6 +22,10 @@ I have added the <style> line to download the jQuery library for the javaScript 
 
 I have added some divisions to allow for JQuery in Version 3 of add.js to be used on them.
 
+# Version 7 - index.html
+
+I have added another division with some basic code that will manipulated by AJAX in the javaScript file.
+
 # Initial Commit - styles.css
 
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
