@@ -26,6 +26,10 @@ I have added some divisions to allow for JQuery in Version 3 of add.js to be use
 
 I have added another division with some basic code that will manipulated by AJAX in the javaScript file.
 
+# Version 8 - index.html
+
+I have added a title and a button to test out the implementation of javascript that I highlighted in add.js Version 5
+
 # Initial Commit - styles.css
 
 I have commited an external css sheet that will link with index.html to apply and edit the style of the website
@@ -51,7 +55,7 @@ I have added some more JQuery to test out some more features that it allows you 
 
 I have added some basic AJAX to manipulate a division and edit the content within it. This has allowed me to get a better understanding of the syntax and what each component of a basic AJAX functionality results in.
 
-#Version 5 - add.js
+# Version 5 - add.js
 
 As part of revision and looking further into JavaScript, I have added two functions with the same name to test what the output would be, I found that you can in fact name two functiosn the same, it will just be saved as the most recent declaration and that is what will be outputed
 
